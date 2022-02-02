@@ -146,12 +146,6 @@
           "title": "Task 4",
           "description": "5555",
           "assignee": "1"
-        },
-        {
-          "id": "1",
-          "title": "Task some task",
-          "description": "Task some task description",
-          "assignee": "2"
         }
       ],
       "id": "OPEN"
@@ -180,6 +174,12 @@
           "title": "Task 1",
           "description": "Task 1 description",
           "assignee": "3"
+        },
+        {
+          "id": "1",
+          "title": "Task some task",
+          "description": "Task some task description",
+          "assignee": "2"
         }
       ],
       "id": "DONE"

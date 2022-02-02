@@ -2,7 +2,7 @@ import React, { createContext } from 'react';
 import ReactDOM from 'react-dom';
 import RootStore from './store';
 import App from './App';
-import { CssBaseline } from '@mui/material';
+import { CssBaseline } from '@material-ui/core';
 
 const store = RootStore.create({});
 
